@@ -1,2 +1,2 @@
-# NMR-tools
+# NMR-tool
 MatchNat
